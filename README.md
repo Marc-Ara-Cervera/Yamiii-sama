@@ -4,7 +4,8 @@
   ---
   
 ## ¿Quien soy? 😄
-  Soy un friki que quiere cambiar el mundo... pero como no puede, hace videojuegos
+  Soy un friki que quiere cambiar el mundo... pero como no puede, hace videojuegos...
+  
   Me gusta dibujar y jugar al Minecraft, a veces también hago cositas.
   
   ## Actualmente trabajando en... 🌱
