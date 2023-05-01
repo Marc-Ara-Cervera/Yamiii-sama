@@ -1,4 +1,4 @@
-### Hi there 👋
+<i>"Los milagros solo le suceden a las personas que no se rinden"<i>
 
 <!--
 **Yamiii-sama/Yamiii-sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
