@@ -14,6 +14,15 @@
   3. Un intento de comic de fantasía
   4. De vez en cuendo se me ocurre alguna cosita más, pero nunca sale de mi cabeza como yo quiero, trabajaré para que salgan
 
+## Estoy aprendiendo muchas cosas 🤔
+  - Java
+  - JavaScript
+  - Python
+  - Unity
+  - Ren´py
+  - C#
+  - Machine Learning
+
   [🔭 Si quieres ver alguno de mis jueguitos pincha por aquí (de momento no hay)](https://yamiii-sama.itch.io/)
   
   
