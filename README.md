@@ -3,7 +3,7 @@
 
   ---
   
-###¿Quien soy?
+# ¿Quien soy?
 Soy un friki que quiere cambiar el mundo... pero como no puede, hace videojuegos
 
 <!--
