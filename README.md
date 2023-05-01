@@ -7,7 +7,7 @@
   Soy un friki que quiere cambiar el mundo... pero como no puede, hace videojuegos
   Me gusta dibujar y jugar al Minecraft, a veces también hago cositas.
   
-  #Actualmente trabajando en... 🌱
+  # Actualmente trabajando en... 🌱
   1. Una novela visual hecha con python
   2. Un asistente de voz con inteligencia artificial
   3. Un intento de comic de fantasía
