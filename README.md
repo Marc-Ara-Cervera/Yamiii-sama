@@ -1,5 +1,5 @@
-*"Los milagros solo le suceden a las personas que no se rinden"*
-<h6>Emporio Ivankov</h6> 💬
+*"Los milagros solo le suceden a las personas que no se rinden"* 💬
+<h6>Emporio Ivankov</h6>
 
   ---
   
