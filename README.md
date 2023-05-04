@@ -14,7 +14,7 @@
   3. Un intento de comic de fantasía
   4. De vez en cuándo se me ocurre alguna cosita más, pero nunca sale de mi cabeza como yo quiero, trabajaré para que salgan
 
-## Estoy aprendiendo muchas cosas 🤔
+## Estoy aprendiendo... 🤔
   - Java
   - JavaScript
   - Python
