@@ -5,7 +5,7 @@
   
 ## ¿Quién soy? 😄
   Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma en CIPFP Cheste / Valencia. 
-  Son un apasiado por la tecnología y la innovación, siempre buscando nuevas maneras de aprender y mejorar, así que estoy en constante evolución 💪
+  Soy un apasiado por la tecnología y la innovación, siempre buscando nuevas maneras de aprender y mejorar, así que estoy en constante evolución 💪
   
   ## Actualmente trabajando en... 🌱
   1. Un videojuego al estilo Call of Duty Zombies hecho en Unity
